@@ -1,0 +1,10 @@
+com\jsb\handson\initialtests\InitialAutomationTest.class
+com\jsb\handson\testngtests\StaticImportTestNGPageTests.class
+com\jsb\handson\pages\OrangeHRMLoginDashboardPage.class
+com\jsb\handson\testngtests\TestNGPageTests.class
+com\jsb\handson\pages\OrangeHRMRecruitmentPage.class
+com\jsb\handson\testngtests\BrowserCustomizationTestNGPageTests.class
+com\jsb\handson\refactoredtests\RefactoredFurtherAutomationTest.class
+com\jsb\handson\testngtests\TestNGTests.class
+com\jsb\handson\pages\OrangeHRMLoginPage.class
+com\jsb\handson\testngtests\OptimizationUsingTestNGPageTests.class

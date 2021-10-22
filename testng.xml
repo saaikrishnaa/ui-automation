@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="C:/Users/Lenovo/Desktop/jSBasics/handson/uiAutomationBasicsMaven">
+        <classes>
+            <class name="com.jsb.handson.testngtests.BrowserCustomizationTestNGPageTests">
+                <methods>
+                    <include name="orangeHRM_incognitoModeloginTest"/>
+                    <include name="orangeHRM_multipleOptionsTest"/>
+                    <include name="orangeHRM_proxyServerTest"/>
+                </methods>
+            </class>
+            <class name="com.jsb.handson.testngtests.OptimizationUsingTestNGPageTests">
+                <methods>
+                    <include name="orangeHRM_incognitoModeloginTest"/>
+                    <include name="orangeHRM_multipleOptionsTest"/>
+                    <include name="orangeHRM_proxyServerTest"/>
+                </methods>
+            </class>
+            <class name="com.jsb.handson.testngtests.StaticImportTestNGPageTests">
+                <methods>
+                    <include name="orangeHRM_loginTest"/>
+                    <include name="orangeHRM_recruitmentSingleVacancyTest"/>
+                    <include name="orangeHRM_recruitmentMultipleVacanciesTest"/>
+                </methods>
+            </class>
+            <class name="com.jsb.handson.testngtests.TestNGPageTests">
+                <methods>
+                    <include name="orangeHRM_loginTest"/>
+                    <include name="orangeHRM_recruitmentSingleVacancyTest"/>
+                    <include name="orangeHRM_recruitmentMultipleVacanciesTest"/>
+                </methods>
+            </class>
+            <class name="com.jsb.handson.testngtests.TestNGTests">
+                <methods>
+                    <include name="orangeHRM_loginTest"/>
+                    <include name="orangeHRM_recruitmentSingleVacancyTest"/>
+                    <include name="orangeHRM_recruitmentMultipleVacanciesTest"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
